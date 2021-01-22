@@ -1,4 +1,4 @@
-项目地址：[Tony5t4rk/nlp-beginner/task1/](https://github.com/Tony5t4rk/nlp-beginner/tree/master/task1)，笔记：任务一：[基于机器学习的文本分类](https://www.wolai.com/tony5t4rk/p5neeWfxdiBBLh4CSLnj2F?theme=light)
+项目地址：[Tony5t4rk/nlp-beginner/task1/](https://github.com/Tony5t4rk/nlp-beginner/tree/master/task1)，笔记：[任务一：基于机器学习的文本分类](https://www.wolai.com/tony5t4rk/p5neeWfxdiBBLh4CSLnj2F?theme=light)
 
 ### 任务一：基于机器学习的文本分类
 
