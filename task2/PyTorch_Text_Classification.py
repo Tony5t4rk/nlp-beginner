@@ -131,7 +131,7 @@ class TextLSTM(nn.Module):
 
 
 def main():
-    # show device(GPU or CPU)
+    # display device(GPU or CPU)
     print('DEVICE: {}'.format(DEVICE))
 
     # get train & validation iterator、word vectors、sample size
@@ -142,6 +142,7 @@ def main():
     #                 weights=word_vectors).to(DEVICE)
     model = TextLSTM(vocab_size=len(word_vectors), embedding_dim=50, hidden_size=HIDDEN_SIZE, n_classes=CLASSES_SIZE,
                      weights=word_vectors).to(DEVICE)
+
     # define optimizer
     optimizer = optim.Adam(model.parameters(), lr=LEARNING_RATE)
 
